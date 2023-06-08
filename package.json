@@ -1,8 +1,8 @@
-{
+{ "homepage": "http://thulasi-shree.github.io/reactproject",
   "name": "dahnay",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://thulasi-shree.github.io/react_app_project",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -21,6 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+   
   },
   "eslintConfig": {
     "extends": [
